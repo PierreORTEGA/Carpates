@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  Application Carpates
+
+  Created by ORTEGA Pierre on 01/04/2016.
+  Copyright © 2016 ORTEGA Pierre. All rights reserved.
+*/
+"Connexion"="Connexion";
+"Inscription"="Inscription";
+"Chateau"="Chateau";
+"Montagne"="Montagne";
+"Espace Utilisateur"="Espace Utilisateur";
+"Lieux"="Lieux";
+"EN"="EN";
+"FR"="FR";
+"RO"="RO";

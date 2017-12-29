@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EE449E3E3A098901EDCC7887AB78C6AF791D7A61",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EE449E3E3A098901EDCC7887AB78C6AF791D7A61" : 0,
+    "E480B2CD68F7D51900B1A52D064BEA0729345346" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E59A0714-F43E-4B64-894A-1202EDD6A312",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EE449E3E3A098901EDCC7887AB78C6AF791D7A61" : "Application%20Carpates\/",
+    "E480B2CD68F7D51900B1A52D064BEA0729345346" : "Projet_JeuPiste\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Application Carpates",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Application Carpates.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/gitlab.iutsd.univ-lorraine.fr\/ortegaI2m\/Projet_JeuPiste.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E480B2CD68F7D51900B1A52D064BEA0729345346"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.com:ORTEGAPierre\/Projet_Carpates.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EE449E3E3A098901EDCC7887AB78C6AF791D7A61"
+    }
+  ]
+}

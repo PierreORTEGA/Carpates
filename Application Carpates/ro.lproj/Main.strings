@@ -1,0 +1,72 @@
+
+/* Class = "UILabel"; text = "Titre"; ObjectID = "15j-2f-ycw"; */
+"15j-2f-ycw.text" = "Titre";
+
+/* Class = "UILabel"; text = "Mot de passe"; ObjectID = "1wT-f2-uzc"; */
+"1wT-f2-uzc.text" = "Mot de passe";
+
+/* Class = "UIButton"; normalTitle = "Valider"; ObjectID = "2g2-JF-V0G"; */
+"2g2-JF-V0G.normalTitle" = "Valider";
+
+/* Class = "UILabel"; text = "Identifiant"; ObjectID = "5fD-3K-vbW"; */
+"5fD-3K-vbW.text" = "Identifiant";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "6b9-ie-HNW"; */
+"6b9-ie-HNW.title" = "Item";
+
+/* Class = "UILabel"; text = "Confirmer le Mot de passe"; ObjectID = "8Bl-72-tjU"; */
+"8Bl-72-tjU.text" = "Confirmer le Mot de passe";
+
+/* Class = "UINavigationItem"; title = "Carte"; ObjectID = "A0B-dI-ToP"; */
+"A0B-dI-ToP.title" = "Carte";
+
+/* Class = "UILabel"; text = "Adresse mail"; ObjectID = "DiI-ii-JgX"; */
+"DiI-ii-JgX.text" = "Adresse mail";
+
+/* Class = "UINavigationItem"; title = "Connexion"; ObjectID = "Lul-pV-fyf"; */
+"Lul-pV-fyf.title" = "Connexion";
+
+/* Class = "UINavigationItem"; title = "Menu"; ObjectID = "NEH-FL-DhX"; */
+"NEH-FL-DhX.title" = "Menu";
+
+/* Class = "UIButton"; normalTitle = "Afficher Carte"; ObjectID = "O1m-DU-O99"; */
+"O1m-DU-O99.normalTitle" = "Afficher Carte";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "QhK-yx-QEY"; */
+"QhK-yx-QEY.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "Inscription"; ObjectID = "VGz-XK-ffZ"; */
+"VGz-XK-ffZ.title" = "Inscription";
+
+/* Class = "UIBarButtonItem"; title = "Menu"; ObjectID = "VoE-wj-0fc"; */
+"VoE-wj-0fc.title" = "Menu";
+
+/* Class = "UIButton"; normalTitle = "Paramètre"; ObjectID = "aFg-9I-ifX"; */
+"aFg-9I-ifX.normalTitle" = "Paramètre";
+
+/* Class = "UIBarButtonItem"; title = "Menu"; ObjectID = "eMx-fv-Hcj"; */
+"eMx-fv-Hcj.title" = "Menu";
+
+/* Class = "UIButton"; normalTitle = "Noter"; ObjectID = "eZz-Kh-cB7"; */
+"eZz-Kh-cB7.normalTitle" = "Noter";
+
+/* Class = "UILabel"; text = "Description :"; ObjectID = "gR0-Li-evN"; */
+"gR0-Li-evN.text" = "Description :";
+
+/* Class = "UILabel"; text = "Mot de passe"; ObjectID = "ium-9f-rYC"; */
+"ium-9f-rYC.text" = "Mot de passe";
+
+/* Class = "UILabel"; text = "Identifiant"; ObjectID = "oEL-m5-dHJ"; */
+"oEL-m5-dHJ.text" = "Identifiant";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rcG-QE-Rhl"; */
+"rcG-QE-Rhl.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Valider"; ObjectID = "uxx-ey-mF7"; */
+"uxx-ey-mF7.normalTitle" = "Valider";
+
+/* Class = "UINavigationItem"; title = "Information"; ObjectID = "wPu-XW-enD"; */
+"wPu-XW-enD.title" = "Information";
+
+/* Class = "UINavigationItem"; title = "Liste des Monuments"; ObjectID = "zdc-0E-wN0"; */
+"zdc-0E-wN0.title" = "Liste des Monuments";
